@@ -1,9 +1,9 @@
-=head1 NAME
+NAME
 
 Wuala - Interface to the Wuala API
 
 
-=head1 SYNOPSIS
+SYNOPSIS
 
     use WWW::Wuala;
 	
@@ -29,7 +29,7 @@ Wuala - Interface to the Wuala API
   for $all ( keys %prev ) { print "@{ $prev{$all} }\n"; } # Show everything
 
   
-=head1 DESCRIPTION
+DESCRIPTION
 
 Wuala is a free social online storage which allows its users to securely store,
 backup, and access files from anywhere and to share files easily with friends,
@@ -57,7 +57,7 @@ Extra:
 wualaFilescounter
 
 
-=head1 METHODS
+METHODS
 
 ___Downloading:
 
@@ -233,7 +233,7 @@ ___wualaFilescounter:
 Returns the number shown on the Wuala Webpage.
 
 
-=head1 MORE
+MORE
 
 If there is something unclear on how to use this Module, let me know
 
@@ -243,16 +243,11 @@ or check out the source of the module or, get you a copy of the API documentatio
 => http://www.wuala.com/Wuala%20API/Documentation/documentation.pdf
 
 
-=head1 AUTHOR
+AUTHOR
 
-Perforin
-Student in Luxembourg with not enough time to finish everything he want to ;-)
+Perforin <admin[AT]virii[d0t]lu>.
 
-Please report all bugs to <admin[AT]virii[d0t]lu>.
-
-www.virii.lu
-
-=head1 GREETINGS
+GREETINGS
 
 MereX
 Neo2k8
@@ -272,7 +267,7 @@ vxnet.ws
 For all those I forgot to greet, I´m sorry :-P
 
 
-=head1 COPYRIGHT
+COPYRIGHT
 
 http://creativecommons.org/licenses/by-sa/3.0/lu/deed.de
 
@@ -296,5 +291,3 @@ For any reuse or distribution, you must make clear to others the license terms o
 The best way to do this is with a link to this web page.
 Any of the above conditions can be waived if you get permission from the copyright holder.
 Nothing in this license impairs or restricts the author's moral rights.
-
-=cut

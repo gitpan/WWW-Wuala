@@ -14,4 +14,6 @@ homepage 'http://virii.lu';
 
 author 'Perforin <perforin@cpan.org>';
 
+auto_install;
+
 WriteAll;

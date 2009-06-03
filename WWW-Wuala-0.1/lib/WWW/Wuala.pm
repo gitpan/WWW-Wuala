@@ -1102,12 +1102,7 @@ or check out the source of the module or, get you a copy of the API documentatio
 
 =head1 AUTHOR
 
-Perforin
-Student in Luxembourg with not enough time to finish everything he want to ;-)
-
-Please report all bugs to <admin[AT]virii[d0t]lu>.
-
-www.virii.lu
+Perforin <admin[AT]virii[d0t]lu>.
 
 =head1 GREETINGS
 
